@@ -1,0 +1,1 @@
+One of the various projects I worked on during my Computer Science Bachelor degree program. A web-based login authentication system using Java Servlets and JSP. The system connects to a MySQL database to validate user credentials.
